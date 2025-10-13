@@ -1,10 +1,6 @@
 <h1 align="center">Hi! I'm Roman Fihel👋</h1>
 <h3 align="center">Just a guy with a dream to become a Robotics Engineer</h3>
 
-- 🔭 I’m currently working on **High-precision Sensors Acquisition Stand (ADS1256, ESP32, + web-interface)**
-
-- 🌱 I’m currently learning **C++, Electronical Engineering, Control Theory**
-
 - 📫 How to reach me: **https://t.me/mlting47** (preferred), **romanfigelo@gmail.com**
 <h3 align="left">Other resources:</h3>
 <p align="left">
