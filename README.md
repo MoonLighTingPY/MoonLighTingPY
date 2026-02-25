@@ -1,12 +1,9 @@
 <h1 align="center">Hi! I'm Roman Fihel👋</h1>
-<h3 align="center">Just a guy with a dream to become a Robotics Engineer</h3>
 
 - 📫 How to reach me: **https://t.me/mlting47** (preferred), **romanfigelo@gmail.com**
-<h3 align="left">Other resources:</h3>
+<h3 align="left">My linkedin:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/roman-fihel-b48359271/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roman-fihel-b48359271/" height="30" width="40" /></a>
-<a href="https://instagram.com/mlting47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mlting47" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@moonlighting6728" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@moonlighting6728" height="30" width="40" /></a>
 </p>
 
 
